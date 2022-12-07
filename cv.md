@@ -3,7 +3,7 @@
 ## My Contact Info:
 * ### Phone: +7(926)461-35-68
 * ### E-mail: gesarzx@yandex.ru
-* ### GitHub: gesarzx [gesarzx](https://github.com/gesarzx)
+* ### GitHub: [gesarzx](https://github.com/gesarzx)
 
 ## About Me
 ### During last 8 years I have been a project manager at Czech company that manufactures heat exchange equipment for the oil and gas industry. In 2022 I decided to change my job from the oil and gas industry to IT.
@@ -28,7 +28,7 @@
 
 ## Languages
 * ### Russian - native speaker.
-* ### English - B1, _I Have experience in foreign business trips and communication with foreign partners and colleagues._ 
+* ### English - B1, _(I Have experience in foreign business trips and communication with foreign partners and colleagues.)_ 
 
 
 
